@@ -6,7 +6,9 @@
 - mySQL Database 
 
 <h2>Certifications</h2>
-
+CompTIA A+
+CompTIA Network+
+CompTIA Security+
 
 <h2> 🤳 Connect with me:</h2>
 
