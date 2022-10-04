@@ -2,8 +2,9 @@
 
 <h2>Projects:</h2>
 <ul>
-  <li>Active Directory</li> 
+ <li>Active Directory</li> 
  <li>mySQL Database</li> 
+ <li>Active Directory Password Reset</li> https://github.com/TPrice99/ActiveDirectoryPasswordReset/blob/main/README.md
 </ul>
 
 <h2>Certifications:</h2>
