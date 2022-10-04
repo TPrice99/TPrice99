@@ -1,21 +1,18 @@
 <h1>Hi, I'm Trevor!</h1>
 
 <h2>Projects:</h2>
+<ul>
+  <li>Active Directory</li> 
+ <li>mySQL Database</li> 
+</ul>
 
-- Active Directory 
-- mySQL Database 
+<h2>Certifications:</h2>
+<ul>
+  <li>CompTIA A+</li>
+  <li>CompTIA Network+</li>
+  <li>CompTIA Security+</li>
+</ul>
 
-<h2>Certifications</h2>
-CompTIA A+
-CompTIA Network+
-CompTIA Security+
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
