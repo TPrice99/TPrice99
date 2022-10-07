@@ -2,6 +2,7 @@
 
 <h2>Projects:</h2>
 <ul>
+ <li>Azure SIEM</li> 
  <li>Active Directory</li> 
  <li>mySQL Database</li> 
  <li>Active Directory Password Reset</li> https://github.com/TPrice99/ActiveDirectoryPasswordReset/blob/main/README.md
