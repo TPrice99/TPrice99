@@ -4,7 +4,6 @@
 <ul>
  <li>Azure SIEM</li> 
  <li>Active Directory</li> 
- <li>mySQL Database</li> 
  <li>Active Directory Password Reset</li> https://github.com/TPrice99/ActiveDirectoryPasswordReset/blob/main/README.md
 </ul>
 
@@ -18,6 +17,6 @@
 
 <h2>About me:</h2>
 <ul>
-  <li>I’m currently studying for the CCNA. I'm expecting to be done in Novemember 2022.</li>
+  <li>I’m currently studying for the Pentest+. I'm expecting to be done in Novemember 2022.</li>
 </ul>
 
