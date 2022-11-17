@@ -18,6 +18,6 @@
 
 <h2>About me:</h2>
 <ul>
-  <li>I’m currently studying for the Pentest+. I'm expecting to be done in Novemember 2022.</li>
+  <li>I’m currently studying for the Cysa+. I'm expecting to be done in by the end of 2022.</li>
 </ul>
 
