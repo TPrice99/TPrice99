@@ -21,6 +21,6 @@
   <li>I’m currently studying for the Cysa+. I'm expecting to be done in by the end of 2022.</li>
 </ul>
 <ul>
- I am also currently working throught the Coding Advent challenge. You can follow my journey at https://github.com/TPrice99/Python-Advent-2022-Challenge
+ I am also currently working through the Coding Advent challenge. You can follow my journey at https://github.com/TPrice99/Python-Advent-2022-Challenge
  </ul>
 
