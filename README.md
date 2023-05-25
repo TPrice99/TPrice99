@@ -13,13 +13,10 @@
   <li>CompTIA A+</li>
   <li>CompTIA Network+</li>
   <li>CompTIA Security+</li>
+  <li>CompTIA CySA+</li>
 </ul>
 
 <h2>About me:</h2>
 <ul>
-  <li>I’m currently studying for the Cysa+. I'm expecting to be done in by the end of 2022.</li>
+  <li>I’m currently learning about web application security through portswigger academy and HackTheBox Bug Bounty course.</li>
 </ul>
-<ul>
- I am also currently working through the Coding Advent challenge. You can follow my journey at https://github.com/TPrice99/Python-Advent-2022-Challenge
- </ul>
-
