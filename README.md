@@ -4,8 +4,9 @@
 <ul>
  <li>Azure SIEM</li> 
  <li>Active Directory</li> 
- <li>Python Email Automation</li> https://github.com/TPrice99/PythonEmailAutomation/blob/main/README.md
+ <li>Python Email Automation:</li> https://github.com/TPrice99/PythonEmailAutomation/blob/main/README.md
  <li>File Share Sever</li>
+ <li>PowerShell Scipts:</li> https://github.com/TPrice99/PowerShell-Scripts
 </ul>
 
 <h2>Education and Certifications:</h2>
