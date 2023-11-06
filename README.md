@@ -1,5 +1,4 @@
-<h1>Hello, I'm Trevor!</h1>
-
+<h1>About Me</h1>
 <h2>Projects:</h2>
 <ul>
  <li>Azure SIEM</li> 
