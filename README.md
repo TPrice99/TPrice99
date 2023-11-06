@@ -6,6 +6,7 @@
  <li>Python Email Automation:</li> https://github.com/TPrice99/PythonEmailAutomation/blob/main/README.md
  <li>File Share Sever</li>
  <li>PowerShell Scipts:</li> https://github.com/TPrice99/PowerShell-Scripts
+ <li>Hacking Scripts/ Notes</li> https://github.com/TPrice99/Hacking-Stuff
 </ul>
 
 <h2>Education and Certifications:</h2>
