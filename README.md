@@ -21,5 +21,5 @@
 
 <h2>About me:</h2>
 <ul>
-  <li>I’m currently learning about web application and operating system security through portswigger academy and HackTheBox penetration tester course. I am also using Microsoft learn to develop my powershell skills.</li>
+  <li>I’m currently learning about web application and operating system security through portswigger academy and Offsec PEN-200 (OSCP). I am also using Microsoft learn to develop my powershell skills.</li>
 </ul>
