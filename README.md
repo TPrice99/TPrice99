@@ -1,12 +1,13 @@
 <h1>About Me</h1>
 <h2>Projects:</h2>
 <ul>
- <li>Azure SIEM</li> 
- <li>Active Directory</li> 
- <li>Python Email Automation:</li> https://github.com/TPrice99/PythonEmailAutomation/blob/main/README.md
- <li>File Share Sever</li>
+ <li>Hacking Scripts</li> https://github.com/TPrice99/Hacking-Stuff
+ <li>Hacking Write Ups</li> https://github.com/TPrice99/Hacking-Stuff](https://github.com/TPrice99/Box_WriteUps
  <li>PowerShell Scipts:</li> https://github.com/TPrice99/PowerShell-Scripts
- <li>Hacking Scripts/ Notes</li> https://github.com/TPrice99/Hacking-Stuff
+ <li>Azure SIEM</li> 
+ <li>Active Directory Environment</li> 
+ <li>Python Email Automation:</li> https://github.com/TPrice99/PythonEmailAutomation/blob/main/README.md
+
 </ul>
 
 <h2>Education and Certifications:</h2>
