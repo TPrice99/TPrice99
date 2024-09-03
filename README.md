@@ -4,8 +4,6 @@
  <li>Hacking Scripts</li> https://github.com/TPrice99/Hacking-Stuff
  <li>Hacking Write Ups</li> https://github.com/TPrice99/Box_WriteUps
  <li>PowerShell Scipts:</li> https://github.com/TPrice99/PowerShell-Scripts
- <li>Azure SIEM</li> 
- <li>Active Directory Environment</li> 
  <li>Python Email Automation:</li> https://github.com/TPrice99/PythonEmailAutomation/blob/main/README.md
 
 </ul>
