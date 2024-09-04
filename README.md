@@ -11,9 +11,9 @@
 <h2>Education and Certifications:</h2>
 <ul>
   <li>B.A. Criminology & Criminal Justice from University of Northern Colorado</li>
-  <li>CompTIA CySA+</li>
   <li>OffSec OSCP</li>
-  <li>CompTIA A+</li>
-  <li>CompTIA Network+</li>
+  <li>CompTIA CySA+</li>
   <li>CompTIA Security+</li>
+  <li>CompTIA Network+</li>
+  <li>CompTIA A+</li>
 </ul>
