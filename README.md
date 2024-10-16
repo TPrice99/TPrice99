@@ -12,6 +12,8 @@
 <ul>
   <li>B.A. Criminology & Criminal Justice from University of Northern Colorado</li>
   <li>OffSec OSCP</li>
+  <li>TCM PNPT</li>
+  <li>Microsoft AZ-104</li>
   <li>CompTIA CySA+</li>
   <li>CompTIA Security+</li>
   <li>CompTIA Network+</li>
